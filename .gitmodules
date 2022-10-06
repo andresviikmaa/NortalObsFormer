@@ -1,0 +1,6 @@
+[submodule "road-anomaly-benchmark"]
+	path = road-anomaly-benchmark
+	url = https://github.com/SegmentMeIfYouCan/road-anomaly-benchmark.git
+[submodule "mmsegmentation"]
+	path = mmsegmentation
+	url = https://github.com/open-mmlab/mmsegmentation.git

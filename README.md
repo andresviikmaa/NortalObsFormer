@@ -1,2 +1,2 @@
 # NortalObsFormer
-Anomaly detection based on SegFormer semantic segmentation 
+Road Anomaly detection based on SegFormer semantic segmentation 
